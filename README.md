@@ -12,7 +12,7 @@ This application is built using Python and Selenium to scrape data from a partic
 
 1. **Clone the repository:**
     ```
-    git clone <repository-url>
+    git clone https://github.com/okashaghaffar/stats-data-collector
     ```
 2. **Install dependencies:**
     ```
