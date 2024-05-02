@@ -27,7 +27,7 @@ This application is built using Python and Selenium to scrape data from a partic
 
 1. **Run the Python script:**
     ```
-    python scrape_and_display.py
+    python main.py
     ```
 2. **Follow the instructions:**
     The script will prompt you to enter necessary information or configurations required for scraping data from the website.
